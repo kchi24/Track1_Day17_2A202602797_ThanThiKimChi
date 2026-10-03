@@ -61,12 +61,12 @@
 - [x] Story opener neo vào "lần gần nhất"
 - [x] 3 câu hỏi chính nối với Big 3
 - [x] Có ít nhất 1 câu có thể làm giả thuyết yếu đi (Big 3 ⚠️)
-- [ ] Interviewee đáp ứng tiêu chí tuyển
+- [x] Interviewee đáp ứng tiêu chí tuyển
 - [ ] Mỗi thành viên biết mình phỏng vấn ai
 
 | Thành viên | Phỏng vấn ai (mã) | Đúng tiêu chí? |
 |---|---|---|
-| Thân Thị Kim Chi | P1 | ... |
+| Thân Thị Kim Chi | P1 | Có |
 | ... | P2 | ... |
 | ... | P3 | ... |
 

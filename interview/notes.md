@@ -2,8 +2,8 @@
 
 - **Interviewer:** Thân Thị Kim Chi
 - **Mã người tham gia:** P1 (không ghi tên thật)
-- **Đúng tiêu chí tuyển:** Có / Không — câu trả lời recruitment check: ...
-- **Đồng ý ghi âm:** Có / Không — thời điểm xin phép: ...
+- **Đúng tiêu chí tuyển:** Có — trong 7 ngày gần đây P1 có gặp phần bài học không hiểu và phải tìm cách xử lý
+- **Đồng ý ghi âm:** Có — xin phép ở đầu bản ghi (00:00–00:08), trước câu hỏi 1
 - **Bản ghi:** xem `interview/recording-link.md`
 - **Thời điểm phỏng vấn:** bắt đầu lúc 20h00
 - **Thời lượng:** 1 phút 48 giây
@@ -45,6 +45,6 @@
 | ✅ Câu 2 – 00:42 | "Bạn đã thử những cách nào để cố gắng vượt qua sự bế tắc đó?" | Câu hiệu quả: mở ra nhiều workaround (video, bài tương tự, hỏi bạn/giảng viên, tạm nghỉ) | Thêm "Lần đó…" để có câu chuyện cụ thể |
 
 ## Checkpoint 3
-- [ ] Hoàn thành 1 lượt làm interviewer
+- [x] Hoàn thành 1 lượt làm interviewer
 - [x] Có Interview Record
-- [ ] Bản ghi đã được người tham gia đồng ý
+- [x] Bản ghi đã được người tham gia đồng ý
