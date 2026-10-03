@@ -1,10 +1,10 @@
 # Interview Record – lượt mình làm interviewer (Chặng 3)
 
 - **Interviewer:** Thân Thị Kim Chi
-- **Mã người tham gia:** P... (không ghi tên thật)
+- **Mã người tham gia:** P1 (không ghi tên thật)
 - **Đúng tiêu chí tuyển:** Có / Không — câu trả lời recruitment check: ...
 - **Đồng ý ghi âm:** Có / Không — thời điểm xin phép: ...
-- **Bản ghi:** `interview/recording.m4a` hoặc xem `interview/recording-link.md`
+- **Bản ghi:** xem `interview/recording-link.md`
 - **Thời điểm phỏng vấn:** bắt đầu lúc 20h00
 - **Thời lượng:** 1 phút 48 giây
 
