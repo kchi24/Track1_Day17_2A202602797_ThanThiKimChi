@@ -66,10 +66,10 @@
 | Phần / câu | v1 | Bản cuối | Vì sao sửa (lỗi quan sát được khi luyện – ai, P mấy, câu hỏi số) |
 |---|---|---|---|
 | Neo vào một lần cụ thể | 3 câu Big 3 hỏi chung "khi không hiểu bài…", không bắt buộc story opener | Bắt buộc hỏi story opener trước; mỗi câu Big 3 bắt đầu bằng "Lần đó…" | Chi – P1 – câu 1–3: cả 3 câu trả lời đều là thói quen chung ("mình thường xem lại phần lý thuyết…", "Nếu vẫn bí, mình sẽ…"), không có bài gì, hôm nào |
-| Big 3 #1 | "Khi nhận ra mình không hiểu bài, bạn đã làm gì để xác định mình vướng ở đâu?" | "Lần đó, lúc nhận ra mình không hiểu, bạn đã làm gì?" | Chi – P1 – câu 1: câu v1 dẫn dắt – giả định sẵn user đi "xác định chỗ vướng" (đúng Pain A), user trả lời theo đúng khung đó |
-| Big 3 #3 | "Việc loay hoay… đã ảnh hưởng thế nào đến tiến độ và cảm xúc học tập của bạn?" | "Lần đó bạn mất bao lâu mới gỡ được? Sau đó bài/kế hoạch tiếp theo của bạn thế nào?" | Chi – P1 – câu 3: hỏi cảm xúc nên nhận câu chung "khá áp lực và dễ nản", "đôi khi bị chậm" – không có con số hay hậu quả cụ thể |
+| Big 3 #1 | "Khi nhận ra mình không hiểu bài, bạn đã làm gì để xác định mình vướng ở đâu?" | "Lần đó, lúc nhận ra mình không hiểu, bạn đã làm gì?" | Chi – P1 – câu 1 (00:08): câu v1 dẫn dắt – giả định sẵn user đi "xác định chỗ vướng" (đúng Pain A), user trả lời theo đúng khung đó |
+| Big 3 #3 | "Việc loay hoay… đã ảnh hưởng thế nào đến tiến độ và cảm xúc học tập của bạn?" | "Lần đó bạn mất bao lâu mới gỡ được? Sau đó bài/kế hoạch tiếp theo của bạn thế nào?" | Chi – P1 – câu 3 (01:22): hỏi cảm xúc nên nhận câu chung "khá áp lực và dễ nản", "đôi khi bị chậm" – không có con số hay hậu quả cụ thể |
 | Probe bank | Không có probe cho "chia nhỏ bài", "hỏi bạn/giảng viên" | Thêm: "Lần đó bạn phát hiện vướng ở bước nào?" · "Bạn hỏi ai, họ giúp thế nào?" · "Chậm bao lâu so với kế hoạch?" | Chi – P1 – câu 1–3: user nhắc "chia bài thành từng bước nhỏ", "hỏi bạn bè hoặc giảng viên", "chậm so với kế hoạch" nhưng mình không hỏi tiếp |
-| Big 3 #1 – điều khiến xem lại | Chỉ "tự xác định được chỗ vướng dễ dàng" | Thêm nhánh: vướng do "chưa hiểu cách áp dụng kiến thức mới" chứ không phải hổng kiến thức nền | Chi – P1 – câu 1: user tự tách "quên kiến thức cũ hay chưa hiểu cách áp dụng kiến thức mới" – nhánh chưa có trong Pain A/B |
+| Big 3 #1 – điều khiến xem lại | Chỉ "tự xác định được chỗ vướng dễ dàng" | Thêm nhánh: vướng do "chưa hiểu cách áp dụng kiến thức mới" chứ không phải hổng kiến thức nền | Chi – P1 – câu 1 (00:08): user tự tách "quên kiến thức cũ hay chưa hiểu cách áp dụng kiến thức mới" – nhánh chưa có trong Pain A/B |
 
 ### Big 3
 | # | Điều cần học | Evidence cần tìm | Điều gì khiến nhóm xem lại giả thuyết? |
@@ -112,8 +112,8 @@ Câu "Bạn đã thử những cách nào để cố gắng vượt qua sự b�
 
 **2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?**
 - Không neo vào một lần cụ thể: cả 3 câu trả lời đều bắt đầu bằng "mình thường…", nhưng mình không kéo lại bằng "Lần gần nhất là khi nào? Lần đó bạn làm gì?".
-- Câu 1 dẫn dắt: hỏi "làm gì để xác định mình vướng ở đâu" là gợi sẵn khung của Pain A.
-- Bỏ lỡ probe: khi trả lời câu 1, user nói "chia bài thành từng bước nhỏ… do quên kiến thức cũ hay chưa hiểu cách áp dụng kiến thức mới" – đây là chi tiết quan trọng cho giả thuyết nhưng mình chuyển sang câu khác; lẽ ra nên hỏi "Lần đó bạn phát hiện vướng ở bước nào?". Tương tự, ở câu 3 user nói "chậm so với kế hoạch" mà mình không hỏi "chậm bao lâu".
+- Câu 1 (00:08) dẫn dắt: hỏi "làm gì để xác định mình vướng ở đâu" là gợi sẵn khung của Pain A.
+- Bỏ lỡ probe: khi trả lời câu 1 (từ 00:08), user nói "chia bài thành từng bước nhỏ… do quên kiến thức cũ hay chưa hiểu cách áp dụng kiến thức mới" – đây là chi tiết quan trọng cho giả thuyết nhưng mình chuyển sang câu khác; lẽ ra nên hỏi "Lần đó bạn phát hiện vướng ở bước nào?". Tương tự, ở câu 3 (từ 01:22) user nói "chậm so với kế hoạch" mà mình không hỏi "chậm bao lâu".
 
 **3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?**
 - Bắt buộc story opener và thêm "Lần đó…" vào đầu mỗi câu Big 3, vì P1 chỉ trả lời bằng thói quen chung.
