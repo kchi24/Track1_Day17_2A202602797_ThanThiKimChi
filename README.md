@@ -4,12 +4,9 @@
 
 ```
 ├── README.md                 # 5 phần bắt buộc
-├── interview/
-│   ├── notes.md              # Interview Record – lượt mình làm interviewer
-│   └── recording.m4a         # hoặc recording-link.md
-└── working/                  # bản làm việc (tham khảo)
-    ├── 01-problem-hypothesis-worksheet.md   # Chặng 1 đầy đủ 6 lớp
-    └── 02-conversation-guide-v1.md          # Guide TRƯỚC khi luyện
+└── interview/
+    ├── notes.md              # Interview Record – lượt mình làm interviewer
+    └── recording-link.md     # Link bản ghi (hoặc file audio recording.m4a/mp3/mp4)
 ```
 
 ---
@@ -27,7 +24,6 @@
 ---
 
 ## 2. Problem Hypothesis Brief (kết quả Chặng 1)
-> Chi tiết 6 lớp: [working/01-problem-hypothesis-worksheet.md](working/01-problem-hypothesis-worksheet.md)
 
 | Lớp | Kết quả |
 |---|---|
@@ -60,7 +56,6 @@
 ---
 
 ## 3. Conversation Guide – phiên bản cuối (sau luyện tập)
-> Bản trước khi luyện: [working/02-conversation-guide-v1.md](working/02-conversation-guide-v1.md)
 
 ### Thay đổi so với v1
 | Phần / câu | v1 | Bản cuối | Vì sao sửa (lỗi quan sát được khi luyện – ai, P mấy, câu hỏi số) |
@@ -128,8 +123,8 @@ Câu "Bạn đã thử những cách nào để cố gắng vượt qua sự b�
 | Chặng | Công cụ | AI đã giúp gì | Điểm sai / hời hợt của AI | Mình đã tự sửa thế nào |
 |---|---|---|---|---|
 | Setup | Claude Code | Tạo khung repo, template trống theo đề | — | Nội dung điền do mình/nhóm |
-| 1 | Claude Code | Phân tích 3 case; gợi ý bản nháp 6 lớp cho Case A (capability, change, actor, JTBD, Pain A/B, evidence, parking lot) | Giả thuyết hoàn toàn suy đoán từ solution directive, chưa dựa trên evidence; Pain A gần như lặp lại giả định của solution | Không dùng bản nháp AI: mục 2 và `working/01` là kết quả Chặng 1 do nhóm tự thảo luận và thống nhất |
-| 2 | Claude Code | Gợi ý Big 3 và câu hỏi cho guide v1; liệt kê câu cần tránh | Bản gợi ý chưa khớp Pain B mới của nhóm (vẫn hỏi về "cách giải thích, ngại hỏi") | Nhóm dùng 3 câu Big 3 do nhóm tự soạn theo giả thuyết Chặng 1; `working/02` ghi lại đúng 3 câu đã dùng khi luyện |
+| 1 | Claude Code | Phân tích 3 case; gợi ý bản nháp 6 lớp cho Case A (capability, change, actor, JTBD, Pain A/B, evidence, parking lot) | Giả thuyết hoàn toàn suy đoán từ solution directive, chưa dựa trên evidence; Pain A gần như lặp lại giả định của solution | Không dùng bản nháp AI: nội dung mục 2 là kết quả Chặng 1 do nhóm tự thảo luận và thống nhất |
+| 2 | Claude Code | Gợi ý Big 3 và câu hỏi cho guide v1; liệt kê câu cần tránh | Bản gợi ý chưa khớp Pain B mới của nhóm (vẫn hỏi về "cách giải thích, ngại hỏi") | Nhóm dùng 3 câu Big 3 do nhóm tự soạn theo giả thuyết Chặng 1; so sánh chi tiết ở bảng thay đổi mục 3 |
 | 3 | Claude Code | Xếp câu trả lời mình ghi lại vào bảng Interview Record (giữ nguyên văn); gợi ý bảng Diễn giải và Tự soát kỹ năng dựa trên đúng lời P1 | AI không nghe được bản ghi nên không có timestamp, không biết giọng điệu/chỗ ngập ngừng | Lời user do mình tự ghi; quote gắn theo số câu hỏi thay vì timestamp |
 | 4 | Claude Code | Đối chiếu câu hỏi đã dùng với câu trả lời của P1, chỉ ra lỗi (không neo lần cụ thể, câu dẫn dắt, bỏ lỡ probe); soạn bản sửa guide và nháp reflection dựa trên đúng lời P1 | AI không nghe được bản ghi nên không gắn được timestamp – dẫn chứng theo số câu hỏi thay vì phút:giây; nhận xét chỉ dựa trên phần lời user mình ghi lại | Mình kiểm tra và chỉnh lại reflection theo trải nghiệm của mình |
 
