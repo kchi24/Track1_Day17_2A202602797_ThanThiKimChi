@@ -63,13 +63,13 @@
 > Bản trước khi luyện: [working/02-conversation-guide-v1.md](working/02-conversation-guide-v1.md)
 
 ### Thay đổi so với v1
-| Phần / câu | v1 | Bản cuối | Vì sao sửa (lỗi quan sát được khi luyện – ai, P mấy, timestamp) |
+| Phần / câu | v1 | Bản cuối | Vì sao sửa (lỗi quan sát được khi luyện – ai, P mấy, câu hỏi số) |
 |---|---|---|---|
-| Neo vào một lần cụ thể | 3 câu Big 3 hỏi chung "khi không hiểu bài…", không bắt buộc story opener | Bắt buộc hỏi story opener trước; mỗi câu Big 3 bắt đầu bằng "Lần đó…" | Chi – P1 – [mm:ss]–[mm:ss]: cả 3 câu trả lời đều là thói quen chung ("mình thường xem lại phần lý thuyết…", "Nếu vẫn bí, mình sẽ…"), không có bài gì, hôm nào |
-| Big 3 #1 | "Khi nhận ra mình không hiểu bài, bạn đã làm gì để xác định mình vướng ở đâu?" | "Lần đó, lúc nhận ra mình không hiểu, bạn đã làm gì?" | Chi – P1 – [mm:ss]: câu v1 dẫn dắt – giả định sẵn user đi "xác định chỗ vướng" (đúng Pain A), user trả lời theo đúng khung đó |
-| Big 3 #3 | "Việc loay hoay… đã ảnh hưởng thế nào đến tiến độ và cảm xúc học tập của bạn?" | "Lần đó bạn mất bao lâu mới gỡ được? Sau đó bài/kế hoạch tiếp theo của bạn thế nào?" | Chi – P1 – [mm:ss]: hỏi cảm xúc nên nhận câu chung "khá áp lực và dễ nản", "đôi khi bị chậm" – không có con số hay hậu quả cụ thể |
-| Probe bank | Không có probe cho "chia nhỏ bài", "hỏi bạn/giảng viên" | Thêm: "Lần đó bạn phát hiện vướng ở bước nào?" · "Bạn hỏi ai, họ giúp thế nào?" · "Chậm bao lâu so với kế hoạch?" | Chi – P1 – [mm:ss]: user nhắc "chia bài thành từng bước nhỏ", "hỏi bạn bè hoặc giảng viên", "chậm so với kế hoạch" nhưng mình không hỏi tiếp |
-| Big 3 #1 – điều khiến xem lại | Chỉ "tự xác định được chỗ vướng dễ dàng" | Thêm nhánh: vướng do "chưa hiểu cách áp dụng kiến thức mới" chứ không phải hổng kiến thức nền | Chi – P1 – [mm:ss]: user tự tách "quên kiến thức cũ hay chưa hiểu cách áp dụng kiến thức mới" – nhánh chưa có trong Pain A/B |
+| Neo vào một lần cụ thể | 3 câu Big 3 hỏi chung "khi không hiểu bài…", không bắt buộc story opener | Bắt buộc hỏi story opener trước; mỗi câu Big 3 bắt đầu bằng "Lần đó…" | Chi – P1 – câu 1–3: cả 3 câu trả lời đều là thói quen chung ("mình thường xem lại phần lý thuyết…", "Nếu vẫn bí, mình sẽ…"), không có bài gì, hôm nào |
+| Big 3 #1 | "Khi nhận ra mình không hiểu bài, bạn đã làm gì để xác định mình vướng ở đâu?" | "Lần đó, lúc nhận ra mình không hiểu, bạn đã làm gì?" | Chi – P1 – câu 1: câu v1 dẫn dắt – giả định sẵn user đi "xác định chỗ vướng" (đúng Pain A), user trả lời theo đúng khung đó |
+| Big 3 #3 | "Việc loay hoay… đã ảnh hưởng thế nào đến tiến độ và cảm xúc học tập của bạn?" | "Lần đó bạn mất bao lâu mới gỡ được? Sau đó bài/kế hoạch tiếp theo của bạn thế nào?" | Chi – P1 – câu 3: hỏi cảm xúc nên nhận câu chung "khá áp lực và dễ nản", "đôi khi bị chậm" – không có con số hay hậu quả cụ thể |
+| Probe bank | Không có probe cho "chia nhỏ bài", "hỏi bạn/giảng viên" | Thêm: "Lần đó bạn phát hiện vướng ở bước nào?" · "Bạn hỏi ai, họ giúp thế nào?" · "Chậm bao lâu so với kế hoạch?" | Chi – P1 – câu 1–3: user nhắc "chia bài thành từng bước nhỏ", "hỏi bạn bè hoặc giảng viên", "chậm so với kế hoạch" nhưng mình không hỏi tiếp |
+| Big 3 #1 – điều khiến xem lại | Chỉ "tự xác định được chỗ vướng dễ dàng" | Thêm nhánh: vướng do "chưa hiểu cách áp dụng kiến thức mới" chứ không phải hổng kiến thức nền | Chi – P1 – câu 1: user tự tách "quên kiến thức cũ hay chưa hiểu cách áp dụng kiến thức mới" – nhánh chưa có trong Pain A/B |
 
 ### Big 3
 | # | Điều cần học | Evidence cần tìm | Điều gì khiến nhóm xem lại giả thuyết? |
@@ -105,15 +105,15 @@
 ---
 
 ## 4. Practice Reflection
-> Dẫn timestamp từ [interview/notes.md](interview/notes.md).
+> Dẫn chứng theo số câu hỏi trong [interview/notes.md](interview/notes.md).
 
 **1. Câu hỏi nào đã giúp user kể một tình huống cụ thể?**
-Câu "Bạn đã thử những cách nào để cố gắng vượt qua sự bế tắc đó?" ([mm:ss]) mở ra nhiều hành vi nhất: user kể tìm video, tài liệu trên mạng, xem bài tập tương tự, hỏi bạn bè hoặc giảng viên, và tạm nghỉ rồi quay lại vì "càng cố khi đang quá căng thẳng thì mình càng khó tập trung". Tuy vậy đây vẫn là thói quen chung, chưa phải một lần cụ thể – vì câu hỏi chưa neo vào "lần gần nhất".
+Câu "Bạn đã thử những cách nào để cố gắng vượt qua sự bế tắc đó?" (câu 2) mở ra nhiều hành vi nhất: user kể tìm video, tài liệu trên mạng, xem bài tập tương tự, hỏi bạn bè hoặc giảng viên, và tạm nghỉ rồi quay lại vì "càng cố khi đang quá căng thẳng thì mình càng khó tập trung". Tuy vậy đây vẫn là thói quen chung, chưa phải một lần cụ thể – vì câu hỏi chưa neo vào "lần gần nhất".
 
 **2. Chỗ nào mình cần làm tốt hơn ở lần phỏng vấn thật?**
 - Không neo vào một lần cụ thể: cả 3 câu trả lời đều bắt đầu bằng "mình thường…", nhưng mình không kéo lại bằng "Lần gần nhất là khi nào? Lần đó bạn làm gì?".
-- Câu 1 ([mm:ss]) dẫn dắt: hỏi "làm gì để xác định mình vướng ở đâu" là gợi sẵn khung của Pain A.
-- Bỏ lỡ probe: ở [mm:ss] user nói "chia bài thành từng bước nhỏ… do quên kiến thức cũ hay chưa hiểu cách áp dụng kiến thức mới" – đây là chi tiết quan trọng cho giả thuyết nhưng mình chuyển sang câu khác; lẽ ra nên hỏi "Lần đó bạn phát hiện vướng ở bước nào?". Tương tự, user nói "chậm so với kế hoạch" ([mm:ss]) mà mình không hỏi "chậm bao lâu".
+- Câu 1 dẫn dắt: hỏi "làm gì để xác định mình vướng ở đâu" là gợi sẵn khung của Pain A.
+- Bỏ lỡ probe: khi trả lời câu 1, user nói "chia bài thành từng bước nhỏ… do quên kiến thức cũ hay chưa hiểu cách áp dụng kiến thức mới" – đây là chi tiết quan trọng cho giả thuyết nhưng mình chuyển sang câu khác; lẽ ra nên hỏi "Lần đó bạn phát hiện vướng ở bước nào?". Tương tự, ở câu 3 user nói "chậm so với kế hoạch" mà mình không hỏi "chậm bao lâu".
 
 **3. Sau khi luyện, nhóm đã sửa Conversation Guide ở đâu và vì sao?**
 - Bắt buộc story opener và thêm "Lần đó…" vào đầu mỗi câu Big 3, vì P1 chỉ trả lời bằng thói quen chung.
@@ -130,8 +130,8 @@ Câu "Bạn đã thử những cách nào để cố gắng vượt qua sự b�
 | Setup | Claude Code | Tạo khung repo, template trống theo đề | — | Nội dung điền do mình/nhóm |
 | 1 | Claude Code | Phân tích 3 case; gợi ý bản nháp 6 lớp cho Case A (capability, change, actor, JTBD, Pain A/B, evidence, parking lot) | Giả thuyết hoàn toàn suy đoán từ solution directive, chưa dựa trên evidence; Pain A gần như lặp lại giả định của solution | Không dùng bản nháp AI: mục 2 và `working/01` là kết quả Chặng 1 do nhóm tự thảo luận và thống nhất |
 | 2 | Claude Code | Gợi ý Big 3 và câu hỏi cho guide v1; liệt kê câu cần tránh | Bản gợi ý chưa khớp Pain B mới của nhóm (vẫn hỏi về "cách giải thích, ngại hỏi") | Nhóm dùng 3 câu Big 3 do nhóm tự soạn theo giả thuyết Chặng 1; `working/02` ghi lại đúng 3 câu đã dùng khi luyện |
-| 3 | Claude Code | Xếp câu trả lời mình ghi lại vào bảng Interview Record (giữ nguyên văn); gợi ý bảng Diễn giải và Tự soát kỹ năng dựa trên đúng lời P1 | AI không nghe được bản ghi nên không có timestamp, không biết giọng điệu/chỗ ngập ngừng | Lời user do mình tự ghi; mình nghe lại bản ghi để điền timestamp và kiểm tra lại diễn giải |
-| 4 | Claude Code | Đối chiếu câu hỏi đã dùng với câu trả lời của P1, chỉ ra lỗi (không neo lần cụ thể, câu dẫn dắt, bỏ lỡ probe); soạn bản sửa guide và nháp reflection dựa trên đúng lời P1 | Chưa có timestamp vì AI không nghe được bản ghi; nhận xét chỉ dựa trên phần lời user mình ghi lại | Mình nghe lại bản ghi, điền timestamp, kiểm tra và chỉnh lại reflection theo trải nghiệm của mình |
+| 3 | Claude Code | Xếp câu trả lời mình ghi lại vào bảng Interview Record (giữ nguyên văn); gợi ý bảng Diễn giải và Tự soát kỹ năng dựa trên đúng lời P1 | AI không nghe được bản ghi nên không có timestamp, không biết giọng điệu/chỗ ngập ngừng | Lời user do mình tự ghi; quote gắn theo số câu hỏi thay vì timestamp |
+| 4 | Claude Code | Đối chiếu câu hỏi đã dùng với câu trả lời của P1, chỉ ra lỗi (không neo lần cụ thể, câu dẫn dắt, bỏ lỡ probe); soạn bản sửa guide và nháp reflection dựa trên đúng lời P1 | AI không nghe được bản ghi nên không gắn được timestamp – dẫn chứng theo số câu hỏi thay vì phút:giây; nhận xét chỉ dựa trên phần lời user mình ghi lại | Mình kiểm tra và chỉnh lại reflection theo trải nghiệm của mình |
 
 Cam kết: không dùng AI để tạo interview data, bịa quote, suy diễn chi tiết user chưa nói, hoặc viết reflection thay cho việc tự nghe lại.
 
