@@ -5,4 +5,4 @@
 - **Link:** https://drive.google.com/drive/folders/1b_VhAAlTUeA1p6FYq1Qc5Af_GVt3QbYp?usp=drive_link
 - **Quyền truy cập:** chỉ chia sẻ cho giảng viên/TA (KHÔNG để "Anyone with the link" / công khai)
 - **Người tham gia:** P... — đã đồng ý ghi âm lúc mm:ss trong bản ghi
-- **Thời lượng:** ... phút
+- **Thời lượng:** 1 phút 48 giây

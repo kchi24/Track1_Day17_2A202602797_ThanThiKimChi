@@ -6,7 +6,7 @@
 - **Đồng ý ghi âm:** Có / Không — thời điểm xin phép: ...
 - **Bản ghi:** `interview/recording.m4a` hoặc xem `interview/recording-link.md`
 - **Thời điểm phỏng vấn:** bắt đầu lúc 20h00
-- **Thời lượng:** ... phút
+- **Thời lượng:** 1 phút 48 giây
 
 ## Interview Record
 > Ghi **facts** (lời user, hành vi đã xảy ra). Quote nguyên văn để trong "…" kèm số câu hỏi mà user đang trả lời (câu 1/2/3 – xem danh sách câu hỏi bên dưới). Diễn giải của mình để ở phần riêng bên dưới.
