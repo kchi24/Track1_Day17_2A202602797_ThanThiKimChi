@@ -17,8 +17,8 @@
 |---|---|
 | MHV | 2A202602797 |
 | Họ tên | Thân Thị Kim Chi |
-| Tên nhóm ||
-| Thành viên | ... |
+| Tên nhóm |Nhóm HKT|
+| Thành viên | Ngô Lê Thủy Tiên, Thân Thị Kim Chi, Nguyễn Khánh Linh |
 | Case đã chọn | Case A — AI Tutor: Diagnostic Refresher |
 
 ---
