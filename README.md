@@ -136,6 +136,6 @@ Cam kết: không dùng AI để tạo interview data, bịa quote, suy diễn c
 - [x] Repo đúng tên `Track1_Day17_2A202602797_ThanThiKimChi`
 - [x] README đủ 5 phần
 - [x] `interview/notes.md` là notes lượt mình làm interviewer
-- [ ] Bản ghi / recording link mở được với giảng viên/TA (không công khai)
+- [x] Bản ghi / recording link mở được với giảng viên/TA
 - [x] Người được phỏng vấn đã đồng ý ghi lại
 - [x] Conversation Guide không lộ solution và đã sửa sau khi luyện
